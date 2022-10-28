@@ -1,0 +1,86 @@
+[
+  {
+    "title": "The Lion Sleeps Tonight",
+    "artist": "The Tokens",
+    "Release_Year": 1961,
+    "Genres": ["jazz", "doo-wap"],
+    "id": 1
+  },
+  {
+    "title": "Levatating",
+    "artist": "Dua Lipa",
+    "Release_Year": 2020,
+    "Genres": ["pop", "electro"],
+    "id": 2
+  },
+  {
+    "title": "Love Again",
+    "artist": "Dua Lipa",
+    "Release_Year": 2020,
+    "Genres": ["pop", "electro"],
+    "id": 3
+  },
+  {
+    "title": "Boheian Rapsody",
+    "artist": "Queen",
+    "Release_Year": 1975,
+    "Genres": ["rock", "pop"],
+    "id": 4
+  },
+  {
+    "title": "We Will Rock You",
+    "artist": "Queen",
+    "Release_Year": 1977,
+    "Genres": ["rock"],
+    "id": 5
+  },
+  {
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "Release_Year": 1970,
+    "Genres": ["rock", "blues"],
+    "id": 6
+  },
+  {
+    "title": "Across the Universe",
+    "artist": "The Beatles",
+    "Release_Year": 1969,
+    "Genres": ["blues", "alternative/indie"],
+    "id": 7
+  },
+  {
+    "title": "While My Guitar Gently Weeps",
+    "artist": "The Beatles",
+    "Release_Year": 1968,
+    "Genres": ["blues", "alternative/indie"],
+    "id": 8
+  },
+  {
+    "title": "Strawberry Fields",
+    "artist": "The Beatles",
+    "Release_Year": 1967,
+    "Genres": ["rock", "alternative/indie"],
+    "id": 9
+  },
+  {
+    "title": "Stan",
+    "artist": "Eminem",
+    "Release_Year": 2000,
+    "Genres": ["hip-hop"],
+    "id": 10
+  },
+  {
+    "title": "Godzilla",
+    "artist": "Eminem",
+    "Release_Year": 2020,
+    "Genres": ["hip-hop"],
+    "id": 11
+  },
+  {
+    "title": "Yellow",
+    "artist": "Amine",
+    "Release_Year": 2017,
+    "Genres": ["hip-hop"],
+    "id": 12
+  }
+]
